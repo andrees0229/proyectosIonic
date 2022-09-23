@@ -1,0 +1,2 @@
+tsc -w //Leer cambios directamente
+nodemon dist //Ejecucion de server con cambios directamente

@@ -1,0 +1,5 @@
+ng add @angular/pwa
+ionic build -prod --service-worker (actualiza carpeta www)
+firebase init (inicializar firebase)
+firebase use --add (para escoger el proyecto)
+firebase deploy (para montar al servicio)
